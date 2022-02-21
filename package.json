@@ -10,8 +10,12 @@
   "author": "Mahtab Alam",
   "license": "ISC",
   "dependencies": {
+    "date-fns": "^2.28.0",
+    "dotenv": "^16.0.0",
     "ejs": "^3.1.6",
     "express": "^4.17.3",
+    "express-validator": "^6.14.0",
+    "js-alert": "^1.0.4",
     "mongoose": "^6.2.2"
   },
   "devDependencies": {
